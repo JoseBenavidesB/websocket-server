@@ -1,1 +1,1 @@
-# A Web Socket server in progress
+# A Simple Web Socket server
